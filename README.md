@@ -3,7 +3,7 @@ archigeo.xyz web development specification
 
 main goal of the development:
 ---
-creating a functional replica of the site kozterkep.hu - as a georeferenced architectural database site, with more social features and some ux (user experience) improvements.
+creating a fairly similar site as kozterkep.hu - as a georeferenced architectural database site, with more social features and some ux (user experience) improvements.
 
 the sub-features & graphical design should be similar to pinterest (in many aspects) 
 
